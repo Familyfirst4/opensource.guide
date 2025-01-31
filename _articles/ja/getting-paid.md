@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: オープンソースで金銭を得る
-description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう
+description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう。
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -66,14 +66,6 @@ related:
 
 もし雇用主がそのプロジェクトを使っているのであれば、オープンソース活動をするのはより簡単になるでしょう。しかし、説明の仕方はよく練る必要があります。そのプロジェクトを使っていないかもしれませんが、 Python を使っているとすれば、 Python の有名なプロジェクトに関わることで新しい Python 開発者を惹き付ける役に立つでしょう。こう説明することで、雇用主はより友好的になるでしょう。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  オープンソースを行っている多くの人のように、プロジェクト運営の重荷に苦しんでいました。はじめてオープンソース活動を始めた時、私は遅い時間か、家に帰ってすぐにオープンソース活動を行っていました。 (...) 私が直面していた問題について上司と話すことができたため、自分たちが使っていたBabelに関するタスクを普段の仕事に取り込む良い方法を思いつきました。
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 もし取り組みたい既存のオープンソース活動がないけれども、現在の仕事の成果をオープンソースにしたいと望んでいる場合は、社内のソフトウェアをオープンソース化する事例を作りましょう。
 
 多くの企業が、ブランド構築と有能な開発者の採用のためにオープンソースプログラムを作っています。
@@ -94,7 +86,7 @@ related:
 
 オープンソース活動を優先するということを現在の雇用主に納得してもらえなかった場合、オープンソースへのコントリビュートを奨励している新しい雇用主を探すことを検討しましょう。オープンソース活動へのコントリビュートを明確にしている企業を探しましょう。例えば：
 
-* [Netflix](https://netflix.github.io/) や [PayPal](https://paypal.github.io/) といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
+* [Netflix](https://netflix.github.io/) といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
 * [Rackspace](https://www.rackspace.com/en-us) は従業員向けに[オープンソースコントリビュートポリシー](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)を公開しています
 
 [Go](https://github.com/golang) や [React](https://github.com/facebook/react) のような大企業がはじめたプロジェクトでは、オープンソース活動を行う人々を採用する可能性があります。
@@ -123,7 +115,6 @@ related:
 あなたが既に協力者や強力な名声を築いていたり、プロジェクトが非常に有名なのであれば、スポンサーを探すのはうまくいくでしょう。スポンサーを得たプロジェクトの例を幾つか挙げます：
 
 * **[webpack](https://github.com/webpack)** は [OpenCollective を通じて](https://opencollective.com/webpack)企業や個人から資金を得ています。
-* **[Vue](https://github.com/vuejs/vue)** は [Patreon を通じて資金を得ています](https://github.com/open-source/stories/yyx990803)。
 * **[Ruby Together](https://rubytogether.org/)** という非営利団体は [bundler](https://github.com/bundler/bundler) や [RubyGems](https://github.com/rubygems/rubygems) といった Ruby の基盤プロジェクトに資金を提供しています。
 
 ### 収益源を作る

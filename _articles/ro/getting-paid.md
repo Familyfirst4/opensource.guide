@@ -94,21 +94,6 @@ Astăzi, mulți oameni sunt plătiți să lucreze cu normă parțială sau într
 
 Este mai ușor să faci un caz pentru muncă open source dacă angajatorul tău folosește de fapt proiectul, dar devino creativ cu pasul tău. Poate angajatorul tău nu folosește proiectul, dar el folosește Python, și întreținerea unui proiect popular Python ajută la atragerea de noi dezvoltatori Python. Poate îl face pe angajatorul tău să arate mai prietenos cu dezvoltatorii în general.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  <p>
-    La fel ca mulți în open source, mă luptam cu povara de a întreține un proiect. Când am început prima dată să fac open source, obișnuiam doar să stau până târziu la muncă pe asta sau chiar când ajungeam acasă. (...) Puteam să discut cu șeful meu despre problemele cu care mă confruntam și noi am venit cu idei despre cum am putea să încorporăm sarcini open source dată fiind propria noastră utilizare Babel.
-  </p>
-  <p>
-    <em>
-      Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-    </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Dacă nu ai un proiect cu sursă deschisă existent pe care ți-ar plăcea să lucrezi, dar preferi ca să se deschidă sursa rezultatelor muncii tale curente, fă un caz pentru angajatorul tău să deschidă sursa unei părți din software-urile sale interne.
 
 Multe companii dezvoltă programe open source pentru a-și construi marca și a recruta talent de calitate.
@@ -138,7 +123,7 @@ Dacă compania ta coboară pe acest traseu, este important să păstrezi graniț
 
 Dacă nu îți poți convinge angajatorul curent să acorde prioritate muncii open source, consideră să găsești un nou angajator care încurajează contribuțiile angajaților la open source. Caută companii care își fac dedicarea la munca open source în mod explicit. De exemplu:
 
-* Unele companii, cum ar fi [Netflix](https://netflix.github.io/) sau [PayPal](https://paypal.github.io/), au site-uri web care evidențiază implicarea lor în open source
+* Unele companii, cum ar fi [Netflix](https://netflix.github.io/), au site-uri web care evidențiază implicarea lor în open source
 * [Rackspace](https://www.rackspace.com/en-us) și-a publicat [politica de contribuire la open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) pentru angajați
 
 Proiectele care provin de la o companie mare, cum ar fi [Go](https://github.com/golang) sau [React](https://github.com/facebook/react), probabil vor angaja de asemenea oameni să lucreze pe open source.
@@ -168,7 +153,6 @@ Găsirea sponsorizărilor funcționează bine dacă ai deja un public puternic s
 Câteva exemple de proiecte sponsorizate includ:
 
 * **[webpack](https://github.com/webpack)** strânge bani de la companii și indivizi [prin OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** este [finanțat prin Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** o organizație nonprofit care plătește pentru munca pe [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), și alte proiecte de infrastructură Ruby
 
 ### Creează un flux de venit

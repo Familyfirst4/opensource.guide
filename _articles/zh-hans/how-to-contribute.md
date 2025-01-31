@@ -69,14 +69,6 @@ redirect_from: /zh-cn/how-to-contribute/
 
 即使你是一位开发者，非代码的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  我第一次接触 Python 开发团队（简称 python-dev）是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的 bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["维护者的故事"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### 是否热衷于规划事件？
 
 * 为项目组织研讨会或线下分享，[一如 @fzamperin 为 NodeSchool 所做的那样](https://github.com/nodeschool/organizers/issues/406)
@@ -173,7 +165,7 @@ redirect_from: /zh-cn/how-to-contribute/
 * **贡献者:** 只要是为项目做出了贡献，就算是贡献者
 * **社区成员:** 那些使用项目的人们。他们或许是积极的讨论者，又或者是为项目的方向提出意见的人。
 
-一个较大的项目，可能下面还会细分子社区，或者是针对不同的任务分成不同的小组，比如工具小组、分流、社区事务、以及活动组织等。径直到项目到网站，找到"团队"页面，或者是查看治理文档，从而获得类似到信息。
+一个较大的项目，可能下面还会细分子社区，或者是针对不同的任务分成不同的小组，比如工具小组、分流、社区事务、以及活动组织等。径直到项目到网站，找到"团队"页面，或者是查看治理文档，从而获得类似的信息。
 
 靠谱的开源项目，一般都会有文档的，这些文档文件通常会在代码仓库的顶级目录列出。
 

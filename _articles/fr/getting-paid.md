@@ -16,7 +16,7 @@ Une grande partie du travail open source est volontaire. Par exemple, une person
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-  Je cherchais un projet de programmation comme "hobby" qui me garderait occupé pendant la semaine autour de Noël. (...) J'avais un ordinateur à la maison, et pas grand-chose d'autre dans les mains. J'ai décidé d'écrire un interprèteur pour le nouveau langage de script auquel j'avais pensé récemment. (...) J'ai choisi Python comme titre de travail.
+  Je cherchais un projet de programmation comme "hobby" qui me garderait occupé pendant la semaine autour de Noël. (...) J'avais un ordinateur à la maison, et pas grand-chose d'autre dans les mains. J'ai décidé d'écrire un interpréteur pour le nouveau langage de script auquel j'avais pensé récemment. (...) J'ai choisi Python comme titre de travail.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
@@ -66,14 +66,6 @@ Aujourd'hui, beaucoup de gens sont payés pour travailler à temps plein ou à t
 
 Il est plus facile de plaider en faveur du travail open source si votre employeur utilise réellement le projet, mais soyez créatif avec votre argumentaire. Peut-être que votre employeur n'utilise pas le projet, mais ils utilisent Python, et le maintien d'un projet populaire Python aide à attirer de nouveaux développeurs Python. Peut-être que cela rend votre employeur plus convivial en général.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Comme beaucoup en open source, je me débattais avec le fardeau de maintenir un projet. Quand j'ai commencé à faire de l'open source, je restais juste en retard pour travailler dessus ou juste quand je rentrais à la maison. (...) J'ai pu discuter avec mon patron des problèmes auxquels je faisais face et nous avons eu des idées sur la façon dont nous pourrions intégrer des tâches open source étant donné notre propre utilisation de Babel.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Si vous n'avez pas de projet Open Source sur lequel vous souhaitez travailler, mais préférez que votre travail actuel soit ouvert, demandez à votre employeur d'ouvrir certains de ses logiciels internes.
 
 De nombreuses entreprises développent des programmes open source pour construire leur marque et recruter des talents de qualité.
@@ -94,7 +86,7 @@ Si votre entreprise suit cette voie, il est important de garder les limites entr
 
 Si vous ne pouvez pas convaincre votre employeur actuel d'accorder la priorité au travail open source, envisagez de trouver un nouvel employeur qui encourage les contributions des employés à l'open source. Cherchez des entreprises qui rendent explicite leur dévouement au travail open source. Par exemple :
 
-* Certaines entreprises, comme [Netflix](https://netflix.github.io/) ou [PayPal](https://paypal.github.io/), ont des sites Web qui soulignent leur implication dans l'open source
+* Certaines entreprises, comme [Netflix](https://netflix.github.io/), ont des sites Web qui soulignent leur implication dans l'open source
 * [Zalando](https://opensource.zalando.com) a publié sa [politique de contribution open source](https://opensource.zalando.com/docs/using/contributing/) pour les employés
 
 Les projets provenant d'une grande entreprise, tels que [Go](https://github.com/golang) ou [React](https://github.com/facebook/react), emploieront probablement des personnes pour travailler sur Open source.
@@ -119,7 +111,6 @@ Trouver des commandites fonctionne bien si vous avez déjà un public ou une ré
 Quelques exemples de projets sponsorisés incluent:
 
 * **[webpack](https://github.com/webpack)** collecte des fonds auprès des entreprises et des particuliers [via OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** est [financé par Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** une organisation à but non lucratif qui paie pour travailler sur [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), et d'autres projets d'infrastructure Ruby
 
 ### Créer un flux de revenus

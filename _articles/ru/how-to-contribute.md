@@ -72,14 +72,6 @@ related:
 
 Даже если вам нравится писать код, другие виды помощи — отличный способ поучаствовать в проекте и познакомиться с другими членами сообщества. Налаживание таких отношений даст вам возможность работать над другими частями проекта.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Я впервые обратился к команде разработчиков Python (также известной как python-dev), когда 17 июня 2002 года в список рассылки отправил электронное письмо с просьбой принять мой патч. Я быстро заметил баг в коде и решил начать готовить почтовые дайджесты для группы. Это послужило отличным предлогом попросить разъяснений по теме, но, что более важно, я мог заметить, когда кто-то указывал на то, что требовало исправления.
-  <p markdown="1" class="pquote-credit">
-  — @brettcannon, ["Истории мейнтейнера"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Нравится планировать мероприятия?
 
 * Организуйте семинары или митапы по проекту, [что и сделал @fzamperin в NodeSchool](https://github.com/nodeschool/organizers/issues/406)
@@ -98,7 +90,7 @@ related:
 * Напишите и улучшите документацию по проекту
 * Создайте папку с примерами по использованию проекта
 * Запустите рассылку новостей по проекту или освещайте самое важное из списка рассылки
-* Составьте обучающие руководства по проекту, [как это сделали участники PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Составьте обучающие руководства по проекту, [как это сделали участники PyPA](https://packaging.python.org/)
 * Переведите документацию проекта
 
 <aside markdown="1" class="pquote">
@@ -221,7 +213,6 @@ related:
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
