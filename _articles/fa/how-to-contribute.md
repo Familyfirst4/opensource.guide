@@ -72,14 +72,6 @@ related:
 
 حتی اگر هم به کدنویسی در پروژه علاقه‌مند باشید، روش‌های دیگر مشارکت بهترین راه‌برای درگیر شدن در یک پروژه و ملاقات با اعضای انجمن‌های دیگر وجود دارد. ساختن این روابط به شما فرصت‌هایی می‌دهد تا در بخش‌های دیگر پروژه مشارکت کنید.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  زمانی که درخواست مشارکتم را در 17 ژوئن سال 2002 به تیم توسعه‌ی پایتون با نام مستعار <span dir="rtl">(python-dev)</span> ارسال کردم، توانستم اولین مشارکتم را با آن‌ها شروع کنم. به سرعت باگ‌ها و خطاهای پروژه‌ی متن باز را پیدا می‌کردم و تصمیم می‌گرفتم خلاصه‌های آن را برای گروه تنظیم کنم. آن‌ها بهانه‌های زیادی می‌آوردند که یک موضوع را روشن کنم، اما با تمام انتقادات، زمانی که هر کسی برای برطرف کردن یک مشکل به کمک نیاز داشت، من آن را متوجه می‌شدم.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### آیا به برگزاری رویدادها علاقه‌مند هستید؟
 
 * ورکشاپ‌ها (کارگاه‌ها) را سازماندهی یا جلسات پروژه را برگزار کنید، مانند کاری که @fzamperin برای  [NodeSchool](https://github.com/nodeschool/organizers/issues/406) انجام داد
@@ -98,7 +90,7 @@ related:
 * اسناد پروژه را بنویسید و اصلاح کنید
 * پوشه‌ی نمونه‌ها را تنظیم کنید تا نحوه‌ی استفاده‌ی پروژه را نشان دهد
 * برای پروژه یک خبرنامه راه‌اندازی کنید، یا شاخصه‌های آن را نوشته و تنظیم کنید
-* برای پروژه، مطالب آموزشی بنویسید، مانند مشارکت‌کننده‌هایی که برای [PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194) مطالب آموزشی نوشتند
+* برای پروژه، مطالب آموزشی بنویسید، مانند مشارکت‌کننده‌هایی که برای [PyPA](https://packaging.python.org/) مطالب آموزشی نوشتند
 * مستندات پروژه را به زبانی دیگر ترجمه کنید
 
 <aside markdown="1" class="pquote">
@@ -222,7 +214,6 @@ related:
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://www.sourcesort.com/)
 

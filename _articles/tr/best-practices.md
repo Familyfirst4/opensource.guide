@@ -116,7 +116,7 @@ Bir katkıyı kabul etmek istemiyorsanız:
 * Varsa, **ilgili belgelere link verin**. Kabul etmek istemediğiniz şeyler için tekrarlanan istekler fark ederseniz, tekrar etmemek için bunları belgelerinize ekleyin.
 * **İsteği kapatın.**
 
-Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [kerevizin](https://github.com/celery/celery/) kullanıcısı Windows ile ilgili bir hata bildirdiğinde, @berkerpeksag [verdiği cevap](https://github.com/celery/celery/issues/3383):
+Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [Celery](https://github.com/celery/celery/) kullanıcısı Windows ile ilgili bir hata bildirdiğinde, @berkerpeksag [verdiği cevap](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
@@ -237,7 +237,7 @@ Bakım çalışmalarının bazı yönlerini otomatikleştirmeye yardımcı olaca
 * [mention-bot](https://github.com/facebook/mention-bot) PR talepleri için potansiyel denetçilerden bahseder
 * [Danger](https://github.com/danger/danger) kod incelemesini otomatikleştirmeye yardımcı olur
 * [no-response](https://github.com/probot/no-response) geliştiricilerin uzun süre yanıt vermediği sorunları kapatır
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
+* [dependabot](https://github.com/dependabot) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
 
 Hata raporları ve diğer genel katkılar için GitHub, aldığınız iletişimi kolaylaştırmak için oluşturabileceğiniz [Sorun Şablonlarına ve PR İsteği Şablonlarına](https://github.com/blog/2111-issue-and-pull-request-templates) sahiptir. @TalAter sorununuzu ve PR şablonlarınızı yazmanıza yardımcı olmak için [Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/) rehberini geliştirdi.
 
